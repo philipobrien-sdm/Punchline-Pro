@@ -2,7 +2,13 @@
 
 **PunchlinePro** is a sophisticated AI-powered application designed to help aspiring comedians write material. By acting as a personal comedy coach, it analyzes your life details, preferred topics, and comedic influences to generate a structured "Tight 10" (10-bit) stand-up routine.
 
-![PunchlinePro Banner](https://img.shields.io/badge/AI-Gemini%202.5-orange?style=for-the-badge) ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge) ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-3.0-cyan?style=for-the-badge)
+<img width="900" height="300" alt="Screenshot 2025-12-15 071723" src="https://github.com/user-attachments/assets/26474fa4-4de6-4750-857d-0c932da7c99f" />
+<img width="300" height="300" alt="Screenshot 2025-12-15 071736" src="https://github.com/user-attachments/assets/05d85017-5673-425a-8a77-6b9d1be82bba" />
+<img width="300" height="300" alt="Screenshot 2025-12-15 071754" src="https://github.com/user-attachments/assets/fd90679b-8df7-4ebe-bd20-2e3e17198e0b" />
+<img width="300" height="300" alt="Screenshot 2025-12-15 071809" src="https://github.com/user-attachments/assets/17aeed72-0cc3-4a2a-802d-64f7052a526f" />
+<img width="900" height="300" alt="Screenshot 2025-12-15 071856" src="https://github.com/user-attachments/assets/7c2a94d3-6024-424f-9274-85d947fa2cc6" />
+
+
 
 ## ✨ Features
 
